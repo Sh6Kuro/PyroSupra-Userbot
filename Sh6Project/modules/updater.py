@@ -7,9 +7,9 @@
 #
 # All rights reserved.
 #
-# Ported by @cmrkuro
-# FROM PyroSupra-Userbot < https://github.com/Sh6Kuro/PyroSupra-Userbot/ >
-# t.me/Kat4logXcode & t.me/cemarasupport
+# Ported by @mrismanaziz
+# FROM PyroMan-Userbot < https://github.com/mrismanaziz/PyroMan-Userbot/ >
+# t.me/Lunatic0de & t.me/SharingUserbot
 #
 
 import asyncio
@@ -270,7 +270,7 @@ async def updaterman(client: Client, message: Message):
 add_command_help(
     "update",
     [
-        ["update", "Untuk melihat list pembaruan terbaru dari PyroSupra-Userbot."],
+        ["update", "Untuk melihat list pembaruan terbaru dari PyroMan-Userbot."],
         ["update deploy", "Untuk mengupdate userbot."],
     ],
 )
