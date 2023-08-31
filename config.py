@@ -1,11 +1,11 @@
-# Credits: @mrismanaziz
-# Copyright (C) 2022 Pyro-ManUserbot
+# Credits: @cmrkuro
+# Copyright (C) 2023 PyroSupra-Userbot
 #
-# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
+# This file is a part of < https://github.com/Sh6Kuro/PyroSupra-Userbot/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
+# <https://www.github.com/Sh6Kuro/PyroSupra-Userbot/blob/main/LICENSE/>.
 #
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/cemarasupport & t.me/Kat4logXcode
 
 from base64 import b64decode
 from os import getenv
