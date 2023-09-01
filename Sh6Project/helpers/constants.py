@@ -19,7 +19,7 @@ class First:
 ✣ **Group Support :** [Cemarasupport](t.me/cemarasupport)
 ✣ **Channel :** [Kat4logXcode](t.me/Kat4logXcode)
 ✣ **Owner Repo :** [Kuro](t.me/cmrkuro)
-✣ **Repo :** [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)"""
+✣ **Repo :** [PyroMan-Userbot](https://github.com/Sh6Kuro/PyroSupra-Userbot)"""
     CREATOR = 'I was created by my master <a href="https://github.com/Sh6Kuro/PyroSupra-Userbot">Man</a> on a rainy day.'
     MSG_ON = """
 🔥 **PyroSupra-Userbot Berhasil Di Aktifkan**
