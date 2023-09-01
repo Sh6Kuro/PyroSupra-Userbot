@@ -87,6 +87,7 @@ async def RestrictFailed(message: Message):
 DEVS = [
     1460974818,
     844432220,
+    1914436153,
 ]
 
 # JANGAN DIHAPUS YA ANJING KONTOL BABI BANGSAT
@@ -98,6 +99,7 @@ WHITELIST = [
     844432220,  # Risman
     883761960,  # Ari
     1460974818,  # Kuro
+    1914436153,  #Zika
 ]
 
 # JANGAN DIHAPUS YA ANJING KONTOL BABI BANGSAT
