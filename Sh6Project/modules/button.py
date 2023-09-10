@@ -81,8 +81,8 @@
              event, "**Teks apa yang harus saya gunakan di pesan button?**" 
          ) 
      catinput = "Inline buttons " + markdown_note 
-     AyiinUBOT = await bot.get_me() 
-     BOT_USERNAME = AyiinUBOT.username 
+     PyroSupra = await bot.get_me() 
+     BOT_USERNAME = PyroSupra.username 
      results = await event.client.inline_query(BOT_USERNAME, catinput) 
      await results[0].click(event.chat_id, reply_to=reply_to_id, hide_via=True) 
      await event.delete() 
@@ -103,7 +103,7 @@
          "button": f"**Plugin : **`button`\ 
          \n\n  »  **Perintah :** `{cmd}cbutton` <text> [Name on button]<buttonurl:link you want to open>\ 
          \n  »  **Kegunaan : **Untuk membuat pesan button\ 
-         \n  •  **Examples : **`{cmd}cbutton test [google]<buttonurl:https://www.google.com> [Channel]<buttonurl:https://t.me/AyiinChannel:same> [Support]<buttonurl:https://t.me/AyiinChats>`\ 
+         \n  •  **Examples : **`{cmd}cbutton test [google]<buttonurl:https://www.google.com> [Channel]<buttonurl:https://t.me/Kat4logXcode:same> [Support]<buttonurl:https://t.me/cemarasupport>`\ 
          \n  •  **NOTE :** Untuk menggunakan ini, anda memerlukan bot anda dan harus ada di grup/channel di mana anda menggunakan\ 
          \n\n  »  **Perintah :** `{cmd}ibutton` <text> [Name on button]<buttonurl:link you want to open>\ 
          \n  »  **Kegunaan : **Untuk membuat pesan button melalui inline\ 
