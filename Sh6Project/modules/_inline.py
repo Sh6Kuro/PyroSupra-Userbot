@@ -24,10 +24,10 @@ import random
  ] 
  logoyins = random.choice( 
      [ 
-         "https://telegra.ph/file/9f8e73d387f25b7f27ce5.jpg", 
-         "https://telegra.ph/file/c935d34b48e45fba22b03.jpg", 
-         "https://telegra.ph/file/392f69c8717c91b1e8a3b.jpg", 
-         "https://telegra.ph/file/4c5b756dd13d7a88c866b.jpg", 
+         "https://telegra.ph//file/a995a2df70cfdb09a6dc3.jpg", 
+         "https://telegra.ph//file/a995a2df70cfdb09a6dc3.jpg", 
+         "https://telegra.ph//file/a995a2df70cfdb09a6dc3.jpg", 
+         "https://telegra.ph//file/a995a2df70cfdb09a6dc3.jpg", 
      ] 
  ) 
   
@@ -38,22 +38,22 @@ import random
      builder = event.builder 
      result = None 
      query = event.text 
-     user = await Ayiin.get_me() 
+     user = await sh6.get_me() 
      uid = user.id 
      if event.query.user_id == user.id and query.startswith( 
-             "@AyiinChats"): 
+             "@cemarasupport"): 
          buttons = paginate_help(0, CMD_HELP, "helpme") 
          result = await event.builder.photo( 
              file=logoyins, 
              link_preview=False, 
-             text=f"**✨ ᴀʏɪɪɴ-ᴜsᴇʀʙᴏᴛ ɪɴʟɪɴᴇ ᴍᴇɴᴜ ✨**\n\n⍟ **ᴅᴇᴘʟᴏʏ :** •[{HOSTED_ON}]•\n⍟ **ᴏᴡɴᴇʀ :** {user.first_name}\n⍟ **ᴊᴜᴍʟᴀʜ :** {len(CMD_HELP)} **Modules**", 
+             text=f"**✨ PyroSupra-Userbot ɪɴʟɪɴᴇ ᴍᴇɴᴜ ✨**\n\n⍟ **ᴅᴇᴘʟᴏʏ :** •[{HOSTED_ON}]•\n⍟ **ᴏᴡɴᴇʀ :** {user.first_name}\n⍟ **ᴊᴜᴍʟᴀʜ :** {len(CMD_HELP)} **Modules**", 
              buttons=main_help_button, 
          ) 
      elif query.startswith("repo"): 
          result = builder.article( 
              title="Repository", 
              description="Repository Ayiin - Userbot", 
-             url="https://t.me/AyiinChats", 
+             url="https://t.me/cmrkuro", 
              thumb=InputWebDocument( 
                  var.INLINE_PIC, 
                  0, 
