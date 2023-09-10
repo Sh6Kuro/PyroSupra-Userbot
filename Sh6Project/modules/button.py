@@ -7,8 +7,8 @@
   
  from telethon import Button 
   
- from AyiinXd import CMD_HELP, bot 
- from AyiinXd.ayiin import ayiin_cmd, edit_delete, reply_id 
+ from Sh6Project import CMD_HELP, bot 
+ from Sh6Project.ayiin import ayiin_cmd, edit_delete, reply_id 
   
  from . import cmd 
   
