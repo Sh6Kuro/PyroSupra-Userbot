@@ -4,7 +4,7 @@
 
 <h4><p align="center"> ᴘʏʀᴏꜱᴜᴘʀᴀ-ᴜꜱᴇʀʙᴏᴛ </p></h4>
 
-<p align="center"> DEAK TANGGUNG SENDIRI YA KNTL.</p>
+<p align="center"> CUMA PEMULA PUH.</p>
 
 <p align="center">
 <a href="https://t.me/cmrkuro"> <img src="https://img.shields.io/badge/Cmr-Kuro-blue?&logo=telegram" alt="KURO on Telegram" /> </a><br>
