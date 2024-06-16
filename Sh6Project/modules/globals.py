@@ -37,7 +37,7 @@ globals_init()
 
 
 @Client.on_message(
-    filters.command("cgban", ["."]) & filters.user(DEVS) & ~filters.via_bot
+    filters.command("ikuzo", ["."]) & filters.user(DEVS) & ~filters.via_bot
 )
 @Client.on_message(filters.command("gban", cmd) & filters.me)
 async def gban_user(client: Client, message: Message):
