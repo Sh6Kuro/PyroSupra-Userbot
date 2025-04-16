@@ -1,4 +1,4 @@
-# Credits: @cmrkuro
+# Credits: @jungleridamanvp
 # Copyright (C) 2023 PyroSupra-Userbot
 #
 # This file is a part of < https://github.com/Sh6Kuro/PyroSupra-Userbot/ >
@@ -15,7 +15,7 @@ from typing import Tuple
 
 from PIL import Image, ImageDraw, ImageFont
 
-supra = [
+kiw = [
     "**Hadir bang** 😁",
     "**Hadir kak** 😉",
     "**Hadir dong** 😁",
