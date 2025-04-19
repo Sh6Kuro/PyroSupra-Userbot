@@ -76,11 +76,6 @@ if not API_HASH:
     LOGGER(__name__).error("No API_HASH Found! Exiting!")
     sys.exit()
 
-if BOTLOG_CHATID:
-    BOTLOG_CHATID = BOTLOG_CHATID
-else:
-    BOTLOG_CHATID = "me"
-
 LOOP = asyncio.get_event_loop()
 
 trl = Translator()
